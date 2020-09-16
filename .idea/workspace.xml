@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea01e10b-65ee-411d-9b3b-9ed0d20559e5" name="Default Changelist" comment="Feature: Added homepage link to project.html + projectpage link to index.html">
-      <change afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ea01e10b-65ee-411d-9b3b-9ed0d20559e5" name="Default Changelist" comment="Edit: Changed index.html project link to project directory">
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600295061241</updated>
-      <workItem from="1600295064017" duration="2229000" />
+      <workItem from="1600295064017" duration="2595000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Home Page with link to github repo and about page, About page with link to home.">
       <created>1600296620093</created>
@@ -72,7 +76,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600297475106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: Created project as a directory.">
+      <created>1600297863285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600297863285</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Edit: Moved project.html file to project directory">
+      <created>1600297932099</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600297932099</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Edit: Changed index.html project link to project directory">
+      <created>1600298105252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600298105252</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +107,10 @@
     <MESSAGE value="Initial Commit: Home Page with link to github repo and about page, About page with link to home." />
     <MESSAGE value="Feature: Added project page" />
     <MESSAGE value="Feature: Added homepage link to project.html + projectpage link to index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added homepage link to project.html + projectpage link to index.html" />
+    <MESSAGE value="Feature: Created project as a directory." />
+    <MESSAGE value="Edit: Moved project.html file to project directory" />
+    <MESSAGE value="Edit: Changed index.html project link to project directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit: Changed index.html project link to project directory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="102" key="#Deployment" timestamp="1600295216604">
