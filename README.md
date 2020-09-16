@@ -1,6 +1,6 @@
 # hw2
 GIT and HTML Introduction HW
-IS117 HW2: Git and HTML Intro
+IS117 HW2
 
 Notes: Though not instructed, I put links to all pages(except individual projects) on home page for easier navigation. 
 
