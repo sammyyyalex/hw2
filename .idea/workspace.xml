@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea01e10b-65ee-411d-9b3b-9ed0d20559e5" name="Default Changelist" comment="Edit: Added link back to home page to project/index.html">
-      <change afterPath="$PROJECT_DIR$/project/project1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project.html" beforeDir="false" />
+    <list default="true" id="ea01e10b-65ee-411d-9b3b-9ed0d20559e5" name="Default Changelist" comment="Feature: Added project2.html with link to index.html">
+      <change beforePath="$PROJECT_DIR$/project/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600295061241</updated>
-      <workItem from="1600295064017" duration="2949000" />
+      <workItem from="1600295064017" duration="3299000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Home Page with link to github repo and about page, About page with link to home.">
       <created>1600296620093</created>
@@ -106,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600298228172</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feature: Added project1.html with link to first hw.">
+      <created>1600298574415</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600298574415</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature: Added project2.html with link to index.html">
+      <created>1600298794964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600298794964</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +132,9 @@
     <MESSAGE value="Edit: Moved project.html file to project directory" />
     <MESSAGE value="Edit: Changed index.html project link to project directory" />
     <MESSAGE value="Edit: Added link back to home page to project/index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit: Added link back to home page to project/index.html" />
+    <MESSAGE value="Feature: Added project1.html with link to first hw." />
+    <MESSAGE value="Feature: Added project2.html with link to index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added project2.html with link to index.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="102" key="#Deployment" timestamp="1600295216604">
@@ -131,10 +145,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="304" y="89" key="#SSH_Configurations/0.23.1440.827@0.23.1440.827" timestamp="1600295163617" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1600298286958">
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1600298809608">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1600298286958" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1600298809608" />
     <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1600295288268">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
