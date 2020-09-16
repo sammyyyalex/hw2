@@ -14,5 +14,4 @@ Projects > Projects |
 Project 1 > Projects > Project 1 |
 Project 1 > Projects > Project 2 |
 
-Submit a link to the repository on GitHub
-Submit a link to the project on AFS.
+Submit a link to the repository on GitHub and a link to the project on AFS.
